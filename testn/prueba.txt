@@ -1,0 +1,16 @@
+Digite estos numeros en el programa:
+4
+8
+9
+///////
+345
+2909
+7689
+//////
+2352
+2578
+9876
+////
+
+los input estan separados por barras pues el programa solo te va a pedir 3 numeros 
+
